@@ -24,6 +24,8 @@ resultados del análisis basados en los gráficos creados en Tableau, e incluye 
 
 ## RESULTADOS
 
+Dashboard 1
+
 **a).- La compañía SRL tiene una plantilla de personal de 311 empleados distribuidos en 28 estados de la unión americana, es importante resaltar que, el 89% de los empleados labora en el estado de Massachusetts**
 
 b).- Los salarios que perciben los empleados van de los $45,000 a los $250,000 dolares anuales, incluidos en los diferentes departamentos que conforman la compañia. En el Dashboard 1 se muestra la gráfica correspondiente empleado/salario.
@@ -33,13 +35,12 @@ c).- Se tienen registros de ingresos de personal a través de diferentes platafo
 d).- Un aspecto importante  es la evaluación del desempeño de los trabajadores, en el dashboard 1 se muestra una tabla que nos indica el resultado de los mejores evaluados y que exceden las expectativas (37 que representa el 12%), así como, los evaluados que obtuvierón menor calificación (18 que representa el 6%) y que se recomienda reciban una asesoría y acompañamiento para mejorar. Aquí destaca que un empleado que percibe uno de los mejores salarios esta evaluado bajo y debemos reflexionar ¿cómo permea ese bajo rendimiento a su alrededor?.
 
 
-** Dashboard 1
 
 ![TABLERO 1](https://github.com/user-attachments/assets/a86d9322-9598-4a14-8163-c3fd96930bff)
 
 
 
-** Dashboard 2
+Dashboard 2
 
 
 ** En el Dashboard 2, se presenta un análisis mediante histogramas del ausentismo, retardos, satisfacción y salario del personal que conforma la compañia. **
@@ -70,9 +71,9 @@ a).- Ausentismo
 b).- Retiros ocurridos en 2018
 c).- Atender causa/ráiz de los resultados de evaluación del desempeño y del clima organizacional
 
-## Liga a Tableau public
 
 [
 ](https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
 
+Liga a Tableau
 
