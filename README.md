@@ -29,6 +29,8 @@ LIGA TABLEAU
 ### (https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
 
 
+### (https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard2?publish=yes)
+
 
 **a).- La compañía SRL tiene una plantilla de personal de 311 empleados distribuidos en 28 estados de la unión americana, es importante resaltar que, el 89% de los empleados labora en el estado de Massachusetts**
 
