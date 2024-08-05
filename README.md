@@ -9,11 +9,29 @@ Los analistas de Recursos Humanos necesitan un dashboard interactivo y dinámico
 ## Pasos a seguir
 
 1. Importa la base de datos HRDataset.csv en Tableau.
-2. 
-3. Desarrolla un dashboard que incluya al menos tres gráficos de los vistos en clase,
+
+  
+2. Desarrolla un dashboard que incluya al menos tres gráficos de los vistos en clase,
 respondiendo a algunas de las ideas de análisis descritas anteriormente.
 
-5. Sube tu dashboard a tu perfil público de Tableau.
-6. 
-7. Crea un nuevo repositorio en GitHub y en tu archivo README.md, describe los
+
+3. Sube tu dashboard a tu perfil público de Tableau.
+
+  
+4. Crea un nuevo repositorio en GitHub y en tu archivo README.md, describe los
 resultados del análisis basados en los gráficos creados en Tableau, e incluye el enlace a tu perfil en Tableau Public.
+
+
+## RESULTADOS
+
+** Dashboard 1
+
+![TABLERO 1](https://github.com/user-attachments/assets/a86d9322-9598-4a14-8163-c3fd96930bff)
+
+
+
+** Dashboard 2
+
+
+![TABLERO 2](https://github.com/user-attachments/assets/48cacae2-df1a-4eea-a6a9-a9b3c07f71c4)
+
