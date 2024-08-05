@@ -23,8 +23,10 @@ resultados del análisis basados en los gráficos creados en Tableau, e incluye 
 
 
 ## RESULTADOS 
-[
-](https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
+
+LIGA TABLEAU
+
+### (https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
 
 Dashboard 1
 
@@ -74,8 +76,7 @@ b).- Retiros ocurridos en 2018
 c).- Atender causa/ráiz de los resultados de evaluación del desempeño y del clima organizacional
 
 
-[
-](https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
+[(https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)]
 
 Liga a Tableau
 
