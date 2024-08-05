@@ -22,7 +22,9 @@ respondiendo a algunas de las ideas de análisis descritas anteriormente.
 resultados del análisis basados en los gráficos creados en Tableau, e incluye el enlace a tu perfil en Tableau Public.
 
 
-## RESULTADOS
+## RESULTADOS 
+[
+](https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
 
 Dashboard 1
 
