@@ -24,9 +24,9 @@ resultados del análisis basados en los gráficos creados en Tableau, e incluye 
 
 ## RESULTADOS
 
-** a).- La compañía SRL tiene una plantilla de personal de 311 empleados distribuidos en 28 estados de la unión americana, es importante resaltar que, el 89% de los empleados labora en el estado de Massachusetts.**
+**a).- La compañía SRL tiene una plantilla de personal de 311 empleados distribuidos en 28 estados de la unión americana, es importante resaltar que, el 89% de los empleados labora en el estado de Massachusetts**
 
-b).- Los salarios que perciben los empleados van de los $45,0000 a los $250,000 dolares anuales, incluidos en los diferentes departamentos que conforman la compañia. En el Dashboard 1 se muestra la gráfica correspondiente empleado/salario.
+b).- Los salarios que perciben los empleados van de los $45,000 a los $250,000 dolares anuales, incluidos en los diferentes departamentos que conforman la compañia. En el Dashboard 1 se muestra la gráfica correspondiente empleado/salario.
 
 c).- Se tienen registros de ingresos de personal a través de diferentes plataformas de empleo desde 2007 y hasta 2017. Cabe mencionar que, en 2018 se tienen registrados 74 retiros de personal del total de 311 empleados. En la gráfica incluida en Dashboard 1, se muestran los ingresos, los retiros y sus causas.
 
@@ -52,4 +52,27 @@ c).- Referente al análisis del ausentismo del personal, resalta que, solo el 11
 
 
 ![TABLERO 2](https://github.com/user-attachments/assets/48cacae2-df1a-4eea-a6a9-a9b3c07f71c4)
+
+## CONCLUSIONES
+
+Los indicadores de gestión de personal son claves en la gestión de empresas públicas y privadas. Para el personal que conforma una empresa es fundamental ubicarse dentro del mapa de proceso, en otras palabras responder al menos tres preguntas básicas.
+
+1.- Cómo contribuyo con mi trabajo diario a logro de los objetivos y metas de la empresa?
+
+2.- Qué espera de mi como trabajador la empresa?
+
+3.- Qué espero como trabajador de la empresa?
+
+
+La gestión que debe realizar Recursos Humanos es fundamental para el desempeño de la empresa SRL, del análisis realizado los puntos claves a atender son:
+
+a).- Ausentismo
+b).- Retiros ocurridos en 2018
+c).- Atender causa/ráiz de los resultados de evaluación del desempeño y del clima organizacional
+
+## Liga a Tableau public
+
+[
+](https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
+
 
