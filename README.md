@@ -47,11 +47,11 @@ Dashboard 1
 
 **En el Dashboard 2, se presenta un análisis mediante histogramas del ausentismo, retardos, satisfacción y salario del personal que conforma la compañia.**
 
-a).- La evaluación del clima organizacional en una empresa es fundamental para identificar las áreas de oportunidad que plasman los empleados mediante encuestas. En el Dashboard 2 observamos la gráfica correspondiente a la satisfacción del personal. Es importante resaltar que, el 61% (192 empleados) su respuesta es sesgada hacía Muy Satisfechos, 35% (108 empleados) su respuesta es solo Satisfechos y el 3.5% (11 empleados) su respuesta es Nada Satisfechos.
+a).- La evaluación del clima organizacional en una empresa es fundamental para identificar las áreas de oportunidad que plasman los empleados mediante encuestas. En el Dashboard 2 observamos la gráfica correspondiente a la satisfacción del personal. Es importante resaltar que, el 62% (192 empleados) su respuesta es sesgada hacía Muy Satisfechos, 35% (108 empleados) su respuesta es solo Satisfechos y el 3% (11 empleados) su respuesta es Poco o Nada Satisfechos.
 
 b).- Respecto al análisis de los registros de puntualidad del personal, es importante mencionar que, el 90% (279 empleados) no tiene retardos.
 
-c).- Referente al análisis del ausentismo del personal, resalta que, solo el 11% (34 empleados), no tiene ausencias. 52% (162 empleados) tiene entre 10 y 20 días de ausentismo y el 4.5% (14 empleados) tiene el máximo de 22 días de ausencia.
+c).- Referente al análisis del ausentismo del personal, resalta que, solo el 4.5% (14 empleados), tiene una sola ausencia. El 54% (163 empleados) tiene entre 10 y 20 días de ausentismo y el resto 43.5% (134 empleados) tiene entre 2 y 9 días de ausencia.
 
 Dashboard 2
 
