@@ -26,11 +26,8 @@ resultados del análisis basados en los gráficos creados en Tableau, e incluye 
 
 LIGA TABLEAU
 
-### (https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard1?publish=yes)
 
-
-### (https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Dashboard2?publish=yes)
-
+## (https://public.tableau.com/app/profile/juan.mendoza3954/viz/Casopracticoversionfinal/Historia1?publish=yes)
 
 **a).- La compañía SRL tiene una plantilla de personal de 311 empleados distribuidos en 28 estados de la unión americana, es importante resaltar que, el 89% de los empleados labora en el estado de Massachusetts**
 
@@ -42,7 +39,8 @@ d).- Un aspecto importante  es la evaluación del desempeño de los trabajadores
 
 Dashboard 1
 
-![TABLERO 1](https://github.com/user-attachments/assets/a86d9322-9598-4a14-8163-c3fd96930bff)
+![Captura de Pantalla 2024-08-08 a la(s) 10 05 39 p m](https://github.com/user-attachments/assets/1a4b43dd-7876-4402-87c2-f3f8b7faef61)
+
 
 
 **En el Dashboard 2, se presenta un análisis mediante histogramas del ausentismo, retardos, satisfacción y salario del personal que conforma la compañia.**
@@ -55,7 +53,8 @@ c).- Referente al análisis del ausentismo del personal, resalta que, solo el 4.
 
 Dashboard 2
 
-![TABLERO 2](https://github.com/user-attachments/assets/48cacae2-df1a-4eea-a6a9-a9b3c07f71c4)
+![Captura de Pantalla 2024-08-08 a la(s) 10 06 02 p m](https://github.com/user-attachments/assets/9c180954-dbda-4f1e-a78f-9fdace174348)
+
 
 ## CONCLUSIONES
 
